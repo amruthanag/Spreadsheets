@@ -8,7 +8,7 @@ Learnings from Gradebook spreadsheet :
 4. Perfomed statistical functions using statistical formulas.
 5. Plotted charts.
 
-Learnings from SalesDatabase spreadsheet :
+Learnings from PoolSalesDatabase spreadsheet :
 
 1. How to convert text to columns.
 2. Functions like if,sumif.
