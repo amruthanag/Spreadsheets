@@ -16,4 +16,12 @@ Learnings from PoolSalesDatabase spreadsheet :
 5. Introduction to pivot tables.
 6. pie charts.
 
+Learnings from CarInventory spreadsheet :
+
+1. Import txt file and convert it to columns.
+2. Use excel formulas to split cells like concat,left,right,mid, If formula,conditional formatting
+3. Pivot table.
+5. VLOOKUP.
+6. Scatter chart, columnar chart.
+
    
